@@ -46,15 +46,6 @@
       "filterable": 1
     },
     {
-      "key": "b6b384a4-43d1-5937-babe-c7af2ea5e21b",
-      "name": "Afasu",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "b0619031-953f-5e05-9d68-a621e8bc6514",
       "name": "BT天堂",
       "type": 0,
