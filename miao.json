@@ -3,6 +3,15 @@
     "wallpaper": "http://tool.teyonds.com/api",
     "sites": [
         {
+            "key": "豆豆",
+            "name": "🦅豆豆┃影院",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "玩偶",
             "name": "👽玩偶┃弹幕",
             "type": 3,
