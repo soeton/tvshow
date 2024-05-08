@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🦅豆豆┃影院",
+            "name": "🦅鹏九",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -13,7 +13,7 @@
         },
         {
             "key": "玩偶",
-            "name": "👽玩偶┃弹幕",
+            "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -29,7 +29,7 @@
         },
         {
             "key": "YGP",
-            "name": "🚀叨观┃荐影",
+            "name": "🚀叨观荐影┃新片",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0,
