@@ -1,6 +1,6 @@
 {
     "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
-    "wallpaper": "http://tool.teyonds.com/api",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "豆豆",
@@ -623,6 +623,16 @@
             ]
         },
         {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
             "name": "AdGuard",
             "url": "https://dns.adguard.com/dns-query",
             "ips": [
@@ -639,13 +649,11 @@
             ]
         },
         {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
             "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
+                "9.9.9.9",
+                "149.112.112.112"
             ]
         }
     ],
@@ -775,11 +783,12 @@
     "lives": [
         {
             "playerType": 1,
-            "name": "lives",
+            "name": "鹏九直播",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "type": 0,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "url": "https://mcp2016.github.io/TVBox/lives.txt"
         }
-    ]   
+    ]
+}
