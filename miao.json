@@ -623,16 +623,6 @@
             ]
         },
         {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
             "name": "AdGuard",
             "url": "https://dns.adguard.com/dns-query",
             "ips": [
@@ -649,11 +639,13 @@
             ]
         },
         {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
             "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
             ]
         }
     ],
@@ -723,4 +715,71 @@
             "regex": [
                 "18.5333",
                 "19.52",
-   
+                "18.6666"
+            ]
+        },
+        {
+            "name": "ff",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy",
+                "ffzy"
+            ],
+            "regex": [
+                "25.0666",
+                "25.08",
+                "20.52",
+                "25.1",
+                "25.1999"
+            ]
+        },
+        {
+            "name": "hs",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "dy",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "nm",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "playerType": 1,
+            "name": "lives",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "type": 0,
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "url": "https://mcp2016.github.io/TVBox/lives.txt"
+        }
+    ]   
