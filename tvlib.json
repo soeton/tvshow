@@ -64,14 +64,6 @@
       "filterable": 1
     },
     {
-      "key": "e2284a54-da17-4a6c-ab96-50acd03c39e2",
-      "name": "QQ传媒",
-      "type": 1,
-      "api": "https://qqcm.sbs/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "07b96ce7-0791-5f19-9321-ba6085145eef",
       "name": "91&麻豆",
       "type": 0,
