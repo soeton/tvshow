@@ -323,7 +323,7 @@
         },
         {
             "key": "酷奇",
-            "name": "🎤酷奇┃MV",
+            "name": "🎤酷奇┃音乐",
             "type": 3,
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
@@ -337,7 +337,7 @@
         },
         {
             "key": "MTV",
-            "name": "🎧明星┃MV",
+            "name": "🎧明星┃音乐",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -496,7 +496,7 @@
         },
         {
             "key": "Bili",
-            "name": "🅱哔哔┃合集",
+            "name": "🅱️哔哔┃合集",
             "type": 3,
             "api": "csp_Bili",
             "style": {
@@ -510,7 +510,7 @@
         },
         {
             "key": "Biliych",
-            "name": "🅱明星┃演唱会",
+            "name": "🅱️明星┃演唱",
             "type": 3,
             "api": "csp_Bili",
             "style": {
