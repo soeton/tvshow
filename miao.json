@@ -613,7 +613,7 @@
 	"lives": [{
 			"name": "IPV6Online",
 			"type": 0,
-			"url": "https://m3u.ibert.me/fmml_ipv6.m3u",
+			"url": "https://raw.githubusercontent.com/Tao-Boy/IPTV/refs/heads/main/IPTV.m3u",
 			"playerType": 1
 		}
 	]
